@@ -1,0 +1,24 @@
+[
+  {
+    "remote": "Hycon-Devices",
+    "repository": "kernel_xiaomi_raphael",
+    "target_path": "kernel/xiaomi/raphael"
+  },
+  {
+    "remote": "Hycon-Devices",
+    "repository": "vendor_xiaomi_raphael",
+    "target_path": "vendor/xiaomi/raphael"
+  },
+  {
+    "remote": "Hycon-Devices",
+    "repository": "device_xiaomi_raphael-sepolicy",
+    "target_path": "device/xiaomi/raphael-sepolicy"
+  },
+  {
+        "repository":	"kdrag0n/proton-clang",
+        "remote":	"github",
+        "clone-depth":	"1",
+        "target_path":	"prebuilts/clang/host/linux-x86/clang-proton",
+        "branch":	"master"
+  }
+]  
